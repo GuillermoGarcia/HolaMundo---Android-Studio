@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">HolaMundo</string>
-    <string name="bienvenido">Bienvenidos, hijos del Rock'N'Roll</string>
+    <string name="bienvenido">Bienvenidos, hijos del Rock\'N\'Roll</string>
     <string name="boton_aceptar">Aceptar</string>
     <string name="btn_pulsar">¡Me han pulsado!</string>
 </resources>
